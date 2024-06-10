@@ -1,1 +1,1 @@
-# Rakurai - Design Engineer Test | Waqar Amin
+# Rakurai - Design Engineer Test
